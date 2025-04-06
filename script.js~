@@ -1,0 +1,5 @@
+const btnEl = document.getElementById("btn");
+const quoteEl = document.getElementById("quote");
+const authorEl = document.getElementById("author");
+#API???
+const apiURL = "";

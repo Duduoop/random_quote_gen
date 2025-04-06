@@ -1,0 +1,22 @@
+
+*** These modified files were found in JOE when it aborted on Sat Apr  5 00:37:05 2025
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+style.css
+style.css
+index.html
+index.html
+test.html
+test.
+sc
+ls
+script.js
+script.js
+script.js
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
