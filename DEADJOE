@@ -20,3 +20,25 @@ Processing '/etc/joe/joerc'...
 Processing '/etc/joe/ftyperc'...
 Finished processing /etc/joe/ftyperc
 Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Thu Apr 10 19:39:40 2025
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/dudu01/git/randomquote/random_quote_gen/.git/COMMIT_EDITMSG
+/home/dudu01/git/randomquote/random_quote_gen/.git/COMMIT_EDITMSG
+pushups.sh
+pushups.sh
+pushups.sh
+pushups.sh
+pushups.sh
+pushups.sh
+pushups.sh
+pushups.sh
+index.html
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc

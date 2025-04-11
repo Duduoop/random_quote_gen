@@ -25,3 +25,8 @@ async function getQuote() {
     btnEl.innerText = "Get a quote";
     btnEl.disabled = false;
     }
+}
+
+GetQuote()
+
+btnEl.addEventListener("click", getQuote);
